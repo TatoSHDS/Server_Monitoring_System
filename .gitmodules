@@ -1,0 +1,6 @@
+[submodule "acn_frontend_iot"]
+	path = acn_frontend_iot
+	url = https://github.com/pablolird/acn_frontend_iot
+[submodule "acn_backend_iot"]
+	path = acn_backend_iot
+	url = https://github.com/pablolird/acn_backend_iot
