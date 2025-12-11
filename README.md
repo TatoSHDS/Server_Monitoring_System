@@ -75,6 +75,12 @@ npm run preview
 
 The frontend uses Vite; `npm run dev` starts a local dev server (see the terminal output for the URL, usually `http://localhost:5173`).
 
+If this project also packages an Electron application, you can build the desktop binary (when an `electron:build` script is present) by running:
+
+```powershell
+npm run electron:build
+```
+
 ## Commit and push the README to GitHub
 From the repository root:
 
